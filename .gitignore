@@ -1,0 +1,5 @@
+doc/reference
+node_modules
+build/*.bc
+emscripten/artoolkit5/*
+
